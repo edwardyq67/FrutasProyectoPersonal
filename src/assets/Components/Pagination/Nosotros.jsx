@@ -189,7 +189,7 @@ function Nosotros() {
               initial="hidden"
               animate={inView2 ? "visible" : {}}
               transition={{ duration: 1, delay: 1.6 }}
-              className='dark:text-gray-400 text-gray-600 text-lg font-extralight font-poppins'>Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat. Quasi aperiam sit non sit neque reprehenderit.</motion.p>
+              className='dark:text-gray-400 text-gray-600 text-xl font-poppins'>Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat. Quasi aperiam sit non sit neque reprehenderit.</motion.p>
           </div>
           <motion.img
             variants={FadeLeft(.7)}

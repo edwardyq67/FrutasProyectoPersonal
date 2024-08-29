@@ -13,7 +13,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className='dark:bg-black bg-white'>
+    <div className='dark:bg-black bg-white overflow-x-hidden'>
     <HashRouter>
       <NavBar />
       <Routes>
